@@ -1,2 +1,2 @@
-# Rag_App
+# rag-app
 A Rag application 
